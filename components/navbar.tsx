@@ -24,7 +24,7 @@ export default function Navbar() {
 							alt='Epsilon logo'
 						/>
 					</Link>
-					<Sheet className='block md:hidden'>
+					<Sheet>
 						<SheetTrigger className='block w-full text-right font-mono text-sm font-semibold'>
 							Menu
 						</SheetTrigger>
